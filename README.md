@@ -1,5 +1,5 @@
 # hierholzer
-# A basic implementation for the algorithm of Hierholzer
+# A basic implementation of the algorithm of Hierholzer
 
 The algorithm of Hierholzer (see [wikipedia article](https://en.wikipedia.org/wiki/Eulerian_path#Hierholzer's_algorithm)) is an algorithm for finding Euler tours in an undirected graph where every vertex has even degree.
 
